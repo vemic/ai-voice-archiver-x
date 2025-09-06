@@ -1,0 +1,14 @@
+{
+  "extName": {
+    "message": "ai-voice-archiver-x"
+  },
+  "extDescription": {
+    "message": "音声をAIでアーカイブ・構造化し、Markdown/JSONで出力するPoC拡張機能"
+  },
+  "recordStart": {
+    "message": "録音開始"
+  },
+  "recordStop": {
+    "message": "録音停止"
+  }
+}
