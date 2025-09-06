@@ -89,6 +89,9 @@ This helps turn design thoughts and discussions into reusable artifacts.
 
 ## Notes
 
+-   Default locale is **Japanese (ja)**.  
+-   i18n is prepared with `_locales/` so that English or other languages can be added easily.  
+-   Forks or future extensions can localize by editing `messages.json`.  
 -   Minimal PoC goal: **voice → structuring → display** loop.\
 -   Future direction: integrations, richer UI, team workflows.\
 -   License: MIT (see [LICENSE](./LICENSE))
