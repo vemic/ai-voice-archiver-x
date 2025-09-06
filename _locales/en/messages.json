@@ -1,0 +1,14 @@
+{
+  "extName": {
+    "message": "ai-voice-archiver-x"
+  },
+  "extDescription": {
+    "message": "PoC Chrome Extension: archive voice with AI, output as Markdown/JSON"
+  },
+  "recordStart": {
+    "message": "Start Recording"
+  },
+  "recordStop": {
+    "message": "Stop Recording"
+  }
+}
