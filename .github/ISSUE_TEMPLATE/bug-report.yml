@@ -1,0 +1,17 @@
+name: Bug Report
+description: Report a problem to be fixed
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: textarea
+    attributes:
+      label: Describe the bug
+      description: What happened and what should have happened
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Steps to reproduce
+      description: How to reproduce the issue
+    validations:
+      required: false

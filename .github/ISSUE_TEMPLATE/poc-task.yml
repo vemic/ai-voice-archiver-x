@@ -1,0 +1,17 @@
+name: PoC Task
+description: Minimal task definition for Copilot Agent during PoC
+title: "[Task] "
+labels: ["task", "poc"]
+body:
+  - type: textarea
+    attributes:
+      label: Goal
+      description: What should be achieved
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Acceptance Criteria
+      description: Conditions that define when this is done
+    validations:
+      required: false
